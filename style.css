@@ -1,0 +1,38 @@
+
+body {
+  background-color: #eeeeee;
+  font-family: 'Titillium Web', sans-serif;
+  color: #444444;
+  font-size: 17px;
+}
+
+.wrapper {
+  margin-top:20px;
+}
+
+.profile-pic {
+  height: 300px;
+  width: 300px;
+  box-shadow:1px 1px 5px #566270;
+  border-radius: 2px;
+}
+
+.users-name {
+  margin: 0px !important;
+}
+
+.location, .contacts-info-title {
+  color: #8b8687;
+  letter-spacing: 2px;
+}
+
+.contacts-info {
+  color: #8b8687;
+  margin-top: 20px;
+  letter-spacing: 2px;
+}
+
+.social-badge {
+  padding: 30px;
+  letter-spacing: 15px;
+}
