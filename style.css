@@ -49,3 +49,9 @@ body {
 .course-information h2 {
   padding-bottom: 20px;
 }
+
+@media screen and (max-width: 992px) {
+  .profile-information {
+    text-align: center;
+  }
+}
